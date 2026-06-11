@@ -28,6 +28,5 @@ The visualizations help map the complex 72-match group stage across 16 venues, c
 ![Tournament Flow](outputs/fwc2026_sankey_overall.png)
 *Figure 2: An interactive diagram displaying the overall flow of the tournament.*
 
-![Tournament Flow](outputs/)
+![FIFA World Cup 2026™ match schedule](outputs/FWC26_Match_Schedule_v17_10042026_EN.png)
 *The original FIFA World Cup 2026™ match schedule.*
-FWC26 Match Schedule_v17_10042026_EN.png
